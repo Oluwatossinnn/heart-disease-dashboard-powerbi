@@ -38,6 +38,7 @@ types, ECG results, fasting blood sugar, cholesterol levels, and disease outcome
 
 ## 📈 Dashboard Preview
 *(Dashboard image shown below)*
+![Heart Disease Dashboard](figures/heart_disease_dashboard.png)
 
 ## ✍️ Author
 **Omolase Taiwo Oluwatosin**  
